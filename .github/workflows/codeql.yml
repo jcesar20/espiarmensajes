@@ -1,4 +1,4 @@
-            - nombre: Configurar el entorno Node.js
+            - nombre: https://npm.pkg.github.com/
   Usos: actions/setup-node@v6.4.0
   con:
     # Especificación de la versión a utilizar. Ejemplos: 12.x, 10.15.1, >=10.15.0.
