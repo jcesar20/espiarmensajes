@@ -1,4 +1,4 @@
-            - nombre: Node.js
+            - nombre: Update Node.js setup in GitHub Actions workflow
 flujo de trabajo: global.json
   Usos: actions/setup-node@v6.4.0
   con:
